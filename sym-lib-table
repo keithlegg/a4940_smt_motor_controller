@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name Connector_Generic)(type Legacy)(uri /keith/kicad/KICAD_PARTS/parts_lib/kicad-symbols-master/Connector_Generic.lib)(options "")(descr ""))
-  (lib (name FPGA_Xilinx_Spartan6)(type Legacy)(uri /keith/kicad/KICAD_PARTS/parts_lib/kicad-symbols-master/FPGA_Xilinx_Spartan6.lib)(options "")(descr ""))
-  (lib (name Regulator_Linear)(type Legacy)(uri /keith/kicad/KICAD_PARTS/parts_lib/kicad-symbols-master/Regulator_Linear.lib)(options "")(descr ""))
-)
